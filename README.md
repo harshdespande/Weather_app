@@ -9,6 +9,11 @@ A simple and elegant weather application built with React that allows users to s
 - Error handling for invalid city names or API failures.
 - You need to create your apikey in OpenWeatherMap API.
 
+## Acknowledgments
+- Built with React.
+- Weather data provided by OpenWeatherMap.
+- Inspired by various React weather app tutorials.
+
 
 ## Screenshots
 ![Weather App Screenshot](https://github.com/harshdespande/Weather_app/blob/main/Screenshot%202025-03-26%20112544.png)
