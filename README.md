@@ -10,7 +10,7 @@ A simple and elegant weather application built with React that allows users to s
 
 
 ## Screenshots
-![Weather App Screenshot]()
+![Weather App Screenshot](https://github.com/harshdespande/Weather_app/blob/main/Screenshot%202025-03-26%20112544.png)
 
 *Search for a city and view the weather details in a clean, modern UI.*
 
