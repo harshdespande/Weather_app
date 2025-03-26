@@ -7,6 +7,7 @@ A simple and elegant weather application built with React that allows users to s
 - Displays the current temperature, weather description, feels-like temperature, and humidity.
 - Clean and responsive UI with a gradient background and card-based design.
 - Error handling for invalid city names or API failures.
+- You need to create your apikey in OpenWeatherMap API.
 
 
 ## Screenshots
