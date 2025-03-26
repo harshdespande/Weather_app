@@ -30,3 +30,7 @@ You can verify your Node.js and npm installations by running:
 ```bash
 node -v
 npm -v
+npm i
+//installing node modules//
+npm start
+//starting the server//
